@@ -8,7 +8,7 @@ port = 22 # ALTERE CASO A PORTA DE ACESSO SSH NÃO SEJA ESSA
 
 # VARIAVEIS GLOBAIS
 debug = False
-global nlot
+global nolt
 
 # ALTERAR DE SOMENTE A SENHA
 def srede():
