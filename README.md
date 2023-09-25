@@ -1,6 +1,4 @@
-# AlteradorDeSenhaONTNokia
-Esse script realiza a alteração de senhas das ONT's Nokia, enviando o comando via ssh diretamente para a OLT.
+# ChangePasswordsNokiaONT
+This script change the passwords from ONT's nokia, send the commands with SSH protocol to Nokia OLT.
 
-Altere da forma que desejar para a utilização.
-
-Created by Wiki. Instagram: @vitor_verli
+Created by Wiki. Instagram: @vitor.software
